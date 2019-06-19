@@ -1,9 +1,6 @@
 # php-Array-function
 
-# php-ShuZu-HanShu
 php常用的数组函数
-
-
 
 数组的相关处理函数
 
